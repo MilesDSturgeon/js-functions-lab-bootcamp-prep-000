@@ -1,19 +1,19 @@
 // write your code below!
 Function happyHolidays()
 {
-  return "Happy holidays !"
+  return "Happy holidays !";
 }
 Function happyHolidaysTo (name)
 {
-  return `Happy holidays, ${name} !`
+  return `Happy holidays, ${name} !`;
 }
 
 Function happyHolidayTo(holiday, name)
 {
-  return `Happy ${holiday}, ${name} !`
+  return `Happy ${holiday}, ${name} !`;
 }
 
 Function holidayCountdown (days, holiday)
 {
-  return `It's ${days} days until ${holiday} !`
+  return `It's ${days} days until ${holiday} !`;
 }
