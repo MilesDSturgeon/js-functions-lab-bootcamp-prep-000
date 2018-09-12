@@ -6,7 +6,6 @@ var happyHolidays = "Happy holidays !"
 
 }
 
-
 Function happyHolidaysTo (name)
 {
   return `Happy holidays, ${name} !`;
