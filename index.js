@@ -2,7 +2,10 @@
 Function happyHolidays()
 {
   return "Happy holidays !";
+
 }
+happyHolidays();
+
 Function happyHolidaysTo (name)
 {
   return `Happy holidays, ${name} !`;
