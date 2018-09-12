@@ -1,9 +1,7 @@
 // write your code below!
 Function happyHolidays()
-var happyHolidays = 
 {
-  return 
-
+  return "Happy holidays !"
 }
 
 Function happyHolidaysTo (name)
