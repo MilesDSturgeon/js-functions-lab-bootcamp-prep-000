@@ -1,7 +1,8 @@
 // write your code below!
 Function happyHolidays()
+var happyHolidays = "Happy holidays !"
 {
-  return "Happy holidays !";
+  return ;
 
 }
 happyHolidays();
