@@ -2,10 +2,10 @@
 Function happyHolidays()
 var happyHolidays = "Happy holidays !"
 {
-  return ;
+  return happyHolidays();
 
 }
-happyHolidays();
+
 
 Function happyHolidaysTo (name)
 {
